@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+At the start of 2023 I'm beginning my adventure into the world of GIS, Remote Sensing and Agtech. I'm studying Agribusiness at UNE and am particularly interested in ways remote sensing can be applied to help farmers improve their yields, whilst also being easy to use and time efficient.
+
+
+
+
